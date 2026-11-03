@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Facebook-Reels-Block
-// @description Block Facebook Reels
+// @description Hide Facebook Reels in the feed.
 // @match          *://www.facebook.com/*
 // @grant          none
 // @inject-into    content
